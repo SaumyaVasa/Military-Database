@@ -1,4 +1,4 @@
-# 🇮🇳 Military Database System
+# Military Database System
 
 ## 📌 Project Overview
 
